@@ -75,9 +75,9 @@ export function WhyChooseUsSection() {
         {/* Section Header */}
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-6">
-            ¿Por Qué Elegir{' '}
+            ¿Por Qué Elegirnos a{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[hsl(var(--gold))] to-[hsl(var(--gold-light))]">
-              Nosotros
+              Nosotros?
             </span>
           </h2>
           <p className="text-white/60 text-lg">

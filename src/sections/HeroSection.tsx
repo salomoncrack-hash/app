@@ -148,7 +148,7 @@ export function HeroSection() {
             {/* Character Image */}
             <img
               ref={characterRef}
-              src="/hero-character.png"
+              src="docs/hero-character.png"
               alt="Personaje Anime Casino"
               className="relative z-10 w-full max-w-lg lg:max-w-xl xl:max-w-2xl h-auto object-contain transition-transform duration-200 ease-out drop-shadow-2xl"
               style={{ transformStyle: 'preserve-3d' }}
