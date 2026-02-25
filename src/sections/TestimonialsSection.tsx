@@ -6,7 +6,7 @@ const testimonials = [
   {
     id: 1,
     name: 'Sara M.',
-    avatar: 'docs/avatar-1.jpg',
+    avatar: 'public/avatar-1.jpg',
     rating: 5,
     quote: '¡Anime Casino es el mejor! Los juegos son divertidos, las recompensas son increíbles y la comunidad es muy acogedora. Nunca me había divertido tanto jugando juegos de casino en línea.',
     role: 'Jugadora VIP',
@@ -14,7 +14,7 @@ const testimonials = [
   {
     id: 2,
     name: 'Juan D.',
-    avatar: 'docs/avatar-2.jpg',
+    avatar: 'public/avatar-2.jpg',
     rating: 5,
     quote: 'Me encanta la temática anime y la variedad de juegos. ¡El soporte al cliente también es de primera! Me ayudaron con todo lo que necesitaba en minutos.',
     role: 'Jugador Regular',
@@ -22,7 +22,7 @@ const testimonials = [
   {
     id: 3,
     name: 'Emily R.',
-    avatar: 'docs/avatar-3.jpg',
+    avatar: 'public/avatar-3.jpg',
     rating: 5,
     quote: 'La experiencia de casino más emocionante que he tenido. ¡Los personajes anime la hacen tan única y los gráficos son absolutamente impresionantes!',
     role: 'Miembro Premium',
