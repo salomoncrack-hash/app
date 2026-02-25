@@ -91,9 +91,7 @@ export function HeroSection() {
               <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight">
                 <span className="text-gold">Emoción</span>{' '}
                 <span className="text-white">del</span>
-              </h1>
-              <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[hsl(var(--gold))] via-[hsl(var(--gold-light))] to-[hsl(var(--gold))] animate-shimmer">
-                Anime Casino
+                <span className="text-white">anime casino</span>
               </h1>
             </div>
 
